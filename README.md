@@ -1,4 +1,4 @@
-### Hello World q(≧▽≦q)
+### Hello World (⌒‿⌒)
 
 <div align="center" style="display:"flex" flex-direction:"column"">
   <a href="https://github.com/rafaelaxmedina">
