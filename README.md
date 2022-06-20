@@ -65,11 +65,27 @@
 <br>
 
 
- #### Google AI for everyone
+#### Stanford 
+ 
+<div style="display: inline_block">
+      <a href="">Algorithms: Design and Analysis</a> 
+   
+   ###
+  
+ > Tecnologias utilizadas: <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />            
+</div>
+
+
+<br>
+
+
+ #### Google AI for anyone
  
 <div style="display: inline_block">
    <a href=""> <img height="300" src="https://user-images.githubusercontent.com/73496436/174609020-e6e75583-ae32-4412-a658-a342b01350f6.png" /> </a>
   
+   ###
+   
   > Tecnologias utilizadas: <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   > <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />            
 </div>
