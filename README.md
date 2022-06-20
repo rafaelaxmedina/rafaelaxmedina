@@ -1,22 +1,57 @@
-### Hello World (≧▽≦)
+## Olá, eu sou a Rafaela Medina
 
-<div style="display:"flex" flex-direction:"column"">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaxmedina&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+### Projetos desenvolvidos
 
-#### Languages:
-<div>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python"  height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<!--   <img align="center" alt="vscode"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
-  <img align="center" alt="vscode"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />         
- </div>
+ #### RocketSeat
  
- #### Frameworks & dependencies:
-<div>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="SASS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<div style="display: inline_block">
+      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174597979-c048183f-20f9-4f05-b3a0-237c2b497f81.png"></a> 
+      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601333-2b1211ba-58be-49ec-8b0e-5d593337cce6.png"></a>
+      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601347-a0b92c10-1d43-40bc-be1d-2297194f6708.png"></a> 
+      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601353-1318d961-cf9b-499a-8e2c-77111d23e3f1.png"></a> 
+  
+  outros:
+  <a href="">FinApi</a>
+  
+  desenvolvido com:
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
+</div>
+
+<br>
+
+ #### Harvard CS50x
+ 
+<div style="display: inline_block">
+      <a href="">CS50's Introduction to Computer Science</a>
+      <a href="">CS50's Web Programming with Python and JavaScript</a>
+  
+  desenvolvido com:
+  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />              
+</div>
+
+
+<br>
+
+
+ #### Google AI for everyone
+ 
+<div style="display: inline_block">
+   <a href=""> <img height="300" src="https://user-images.githubusercontent.com/73496436/174609020-e6e75583-ae32-4412-a658-a342b01350f6.png" /> </a>
+  
+  
+  desenvolvido com:
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />            
 </div>
