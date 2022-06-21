@@ -1,8 +1,8 @@
-## Sobre mim 🚀
+## Hello World,  I'm Rafaela Medina
 
-Hello World, me chamo Rafaela Medina e sou desenvolvedora de software jr. continuamente buscando evolução. 
+A Software Developer searching for evolution
 
-#### Alguns cursos que fiz: 
+### Alguns cursos que fiz: 
 <div>
    <a><img height="90" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4"></a>
    <a><img height="90" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Harvard_University_shield.svg/1200px-Harvard_University_shield.svg.png"></a>
@@ -14,7 +14,7 @@ Hello World, me chamo Rafaela Medina e sou desenvolvedora de software jr. contin
 
 ####
 
-> Existem muitos cursos bons e gratuitos de programação, por isso, criei um repositório organizando alguns materiais que podem ser uteis para seu estudos: <a href="">Cursos de Programção </a> :) 
+> Existem muitos cursos bons e gratuitos de programação, por isso, criei um repositório organizando alguns materiais que podem ser utéis para seu estudos: <a href="">Cursos de Programação </a> :) 
 
 <br>
 
