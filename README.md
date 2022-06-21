@@ -29,8 +29,7 @@ A Software Developer searching for evolution
       <a href="https://github.com/rafaelaxmedina/ignite-feed"><img height="150" src="https://user-images.githubusercontent.com/73496436/174597979-c048183f-20f9-4f05-b3a0-237c2b497f81.png"></a> 
       <a href="https://github.com/rafaelaxmedina/ignews"><img height="150" src="https://user-images.githubusercontent.com/73496436/174601333-2b1211ba-58be-49ec-8b0e-5d593337cce6.png"></a>
       <a href="https://github.com/rafaelaxmedina/github_explorer"><img height="150" src="https://user-images.githubusercontent.com/73496436/174601347-a0b92c10-1d43-40bc-be1d-2297194f6708.png"></a> 
-      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601353-1318d961-cf9b-499a-8e2c-77111d23e3f1.png"></a> 
-  
+
   outros:
   <a href="https://github.com/rafaelaxmedina/FinApi">FinApi</a>
   
