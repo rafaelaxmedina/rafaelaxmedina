@@ -1,6 +1,8 @@
-## Olá, eu sou a Rafaela Medina
+## Sobre mim 🚀
 
-### Alguns cursos que fiz: 
+Hello World, me chamo Rafaela Medina e sou desenvolvedora de software jr. continuamente buscando evolução. 
+
+#### Alguns cursos que fiz: 
 <div>
    <a><img height="90" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4"></a>
    <a><img height="90" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Harvard_University_shield.svg/1200px-Harvard_University_shield.svg.png"></a>
@@ -12,7 +14,7 @@
 
 ####
 
-> Hi cutie :)
+> Existem muitos cursos bons e gratuitos de programação, por isso, criei um repositório organizando alguns materiais que podem ser uteis para seu estudos: <a href="">Cursos de Programção </a> :) 
 
 <br>
 
@@ -24,13 +26,13 @@
 #### RocketSeat
  
 <div style="display: inline_block">
-      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174597979-c048183f-20f9-4f05-b3a0-237c2b497f81.png"></a> 
-      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601333-2b1211ba-58be-49ec-8b0e-5d593337cce6.png"></a>
-      <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601347-a0b92c10-1d43-40bc-be1d-2297194f6708.png"></a> 
+      <a href="https://github.com/rafaelaxmedina/ignite-feed"><img height="150" src="https://user-images.githubusercontent.com/73496436/174597979-c048183f-20f9-4f05-b3a0-237c2b497f81.png"></a> 
+      <a href="https://github.com/rafaelaxmedina/ignews"><img height="150" src="https://user-images.githubusercontent.com/73496436/174601333-2b1211ba-58be-49ec-8b0e-5d593337cce6.png"></a>
+      <a href="https://github.com/rafaelaxmedina/github_explorer"><img height="150" src="https://user-images.githubusercontent.com/73496436/174601347-a0b92c10-1d43-40bc-be1d-2297194f6708.png"></a> 
       <a><img height="150" src="https://user-images.githubusercontent.com/73496436/174601353-1318d961-cf9b-499a-8e2c-77111d23e3f1.png"></a> 
   
   outros:
-  <a href="">FinApi</a>
+  <a href="https://github.com/rafaelaxmedina/FinApi">FinApi</a>
   
   > Tecnologias utilizadas: <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   > <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -46,8 +48,8 @@
  #### Harvard CS50x
  
 <div style="display: inline_block">
-      <a href="">CS50's Introduction to Computer Science</a> <br>
-      <a href="">CS50's Web Programming with Python and JavaScript</a>
+      <a href="https://github.com/rafaelaxmedina/cs50x">CS50's Introduction to Computer Science</a> <br>
+      <a href="https://github.com/rafaelaxmedina/cs50w">CS50's Web Programming with Python and JavaScript</a>
  
  ###
   
@@ -68,7 +70,7 @@
 #### Stanford 
  
 <div style="display: inline_block">
-      <a href="">Algorithms: Design and Analysis</a> 
+      <a href="https://github.com/rafaelaxmedina/algorithms">Algorithms: Design and Analysis</a> 
    
    ###
   
@@ -82,7 +84,7 @@
  #### Google AI for anyone
  
 <div style="display: inline_block">
-   <a href=""> <img height="300" src="https://user-images.githubusercontent.com/73496436/174609020-e6e75583-ae32-4412-a658-a342b01350f6.png" /> </a>
+   <a href="https://github.com/rafaelaxmedina/smartCameraWithTensorflowjs"> <img height="300" src="https://user-images.githubusercontent.com/73496436/174609020-e6e75583-ae32-4412-a658-a342b01350f6.png" /> </a>
   
    ###
    
