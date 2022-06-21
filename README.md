@@ -12,8 +12,10 @@ A Software Developer searching for evolution
    <a href="https://recode.org.br/"><img height="50" src="https://captadores.org.br/wp-content/uploads/2019/04/recode.png"></a>
 </div> 
 
+
 ####
 
+> Existem muitos cursos bons e gratuitos de programação, por isso, criei um repositório organizando alguns materiais que podem ser utéis para seu estudos: <a href="">Cursos de Programação </a> :) 
 
 
 <br>
