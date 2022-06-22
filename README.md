@@ -82,7 +82,7 @@ A Software Developer searching for evolution
  #### Google AI for anyone
  
 <div style="display: inline_block">
-   <a href="https://github.com/rafaelaxmedina/smartCameraWithTensorflowjs"> <img height="300" src="https://user-images.githubusercontent.com/73496436/174609020-e6e75583-ae32-4412-a658-a342b01350f6.png" /> </a>
+   <a href="https://github.com/rafaelaxmedina/smartCameraWithTensorflowjs"> Reconhecimento de objetos </a>
   
    ###
    
