@@ -80,14 +80,3 @@ A Software Developer searching for evolution
 
 <br>
 
-
- #### Google AI for anyone
- 
-<div style="display: inline_block">
-   <a href="https://github.com/rafaelaxmedina/smartCameraWithTensorflowjs"> Reconhecimento de objetos </a>
-  
-   ###
-   
-  > Tecnologias utilizadas: <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  > <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />            
-</div>
