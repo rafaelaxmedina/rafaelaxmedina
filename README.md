@@ -1,6 +1,6 @@
 ## Hello World,  I'm Rafaela Medina
 
-A Software Developer searching for evolution, current learnign UX Design at <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google</a>
+A Software Developer searching for evolution, current learnign Cybersecurity at <a href="https://www.edx.org/course/unlocking-information-security-part-i">Tel Aviv University</a>
 
 ### Courses I've taken: 
 <div>
@@ -16,6 +16,9 @@ A Software Developer searching for evolution, current learnign UX Design at <a h
 <div>
    <div>
       <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
       <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> 
       <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
