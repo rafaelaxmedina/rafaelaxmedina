@@ -1,6 +1,6 @@
 ## Hello World,  I'm Rafaela Medina
 
-A Software Developer searching for evolution, current learnign Cybersecurity at <a href="https://www.edx.org/course/unlocking-information-security-part-i">Tel Aviv University</a>
+A Software Developer searching for evolution, currently learnign Cybersecurity at <a href="https://www.edx.org/course/unlocking-information-security-part-i">Tel Aviv University</a>
 
 ### Courses I've taken: 
 <div>
