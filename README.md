@@ -10,6 +10,7 @@ A Software Developer searching for evolution, currently learnign Front-End Web D
    <a href="https://www.edx.org/professional-certificate/google-fundamentals-of-google-ai-for-web-based-machine-learning?index=product&queryID=7bfba1412f8b40ae78a7d8520a3b7443&position=1"><img height="90" src="https://seeklogo.com/images/G/google-ai-logo-996E85F6FD-seeklogo.com.png"></a>
    <a href="https://www.cursoemvideo.com/"><img height="90" src="https://allmylinks.com/upload/Site/favicon/u/r/8/RWbFX3KS_afHDmiEM8mX6CdmV0w7cbK6.png"></a>
    <a href="https://recode.org.br/"><img height="50" src="https://captadores.org.br/wp-content/uploads/2019/04/recode.png"></a>
+   <a href="https://www.edx.org/professional-certificate/w3cx-front-end-web-developer?index=product&queryID=8193ca9e81a4caf0776cd4f03c255f21&position=1"><img height="90" src="https://prod-discovery.edx-cdn.org/organization/logos/e3c306a5-f985-4c36-a157-a947aec040e8-0862b784a2b0.png"></a> 
 </div> 
 
 ### Technologies I've Worked With: 
