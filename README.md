@@ -1,6 +1,4 @@
-## Hello World,  I'm Rafaela Medina
-
-A Software Developer searching for evolution, currently learnign Front-End Web Developer at <a href="https://www.edx.org/professional-certificate/w3cx-front-end-web-developer?index=product&queryID=8193ca9e81a4caf0776cd4f03c255f21&position=1">W3C</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+I'm+Rafaela+Medina;Never+stop+learing)](https://git.io/typing-svg)
 
 ### Courses I've taken: 
 <div>
