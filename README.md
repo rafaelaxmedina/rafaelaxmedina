@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+I'm+Rafaela+Medina;Never+stop+learing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=22B303&lines=Hello%2C+world;gxoxklmhiextkgbgz)](https://git.io/typing-svg)
 
 ### Courses I've taken: 
 <div>
